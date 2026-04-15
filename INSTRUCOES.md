@@ -75,9 +75,10 @@ Matrix:
 ```
 
 ## 5) Group members information
-- User1: John Doe
-- User2: Jane Smith
-- User3: Mike Johnson
-- User4: Magnunson
+- User1: Admilson Mateus Gomes  
+- User2: Bernado Francisco Cazola Gunza
+- User3: Geraldo Noél  
+- User4: Horvanda Madalena
+- User5:Magnunson A. Kamaty Twetymona 
 
 Please make sure to update the file as necessary.
